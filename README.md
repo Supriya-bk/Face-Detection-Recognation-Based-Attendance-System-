@@ -41,8 +41,10 @@ TRAINED_IMAGES:
 STUDENT_DETAILS_STORED_IN_SPREAD_SHEET<img width="1920" height="1020" alt="STUDENT DETAILS IN SPREAD SHEET" src="https://github.com/user-attachments/assets/ea5e7327-fbd1-4fd6-844f-d9f1ff682be8" />
 
 HELP_OPTION_IN_MENUBAR:
+
 <img width="454" height="911" alt="HELP OPTION IN MENUBAR" src="https://github.com/user-attachments/assets/882323b3-2a74-4bdf-a2f3-db5294fbb4b1" />
 
 CHANGE_PASSWARD_OPTION:
+
 <img width="502" height="240" alt="CHANGE PASSWORD OPTION" src="https://github.com/user-attachments/assets/bb397a24-863c-412a-99c2-f9faefa0d4ea" />
 
