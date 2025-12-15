@@ -45,3 +45,4 @@ HELP_OPTION_IN_MENUBAR:
 
 CHANGE_PASSWARD_OPTION:
 <img width="502" height="240" alt="CHANGE PASSWORD OPTION" src="https://github.com/user-attachments/assets/bb397a24-863c-412a-99c2-f9faefa0d4ea" />
+
