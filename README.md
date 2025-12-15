@@ -19,12 +19,29 @@ FEATURES:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
 
 # Screenshoots:
+
+MAIN_SCREEN:
 <img width="1920" height="954" alt="MAIN SCREEN" src="https://github.com/user-attachments/assets/1972db22-072b-4111-aa2c-417f409a98b7" />
-<img width="454" height="911" alt="HELP OPTION IN MENUBAR" src="https://github.com/user-attachments/assets/882323b3-2a74-4bdf-a2f3-db5294fbb4b1" />
-<img width="502" height="240" alt="CHANGE PASSWORD OPTION" src="https://github.com/user-attachments/assets/bb397a24-863c-412a-99c2-f9faefa0d4ea" />
-<img width="1920" height="1020" alt="ATTENDANCE REGISTERED IN SPREAD SHEET" src="https://github.com/user-attachments/assets/4406fbe8-b3e6-4c93-9f87-319d52073ab2" />
-<img width="1350" height="714" alt="TRAINED IMAGES" src="https://github.com/user-attachments/assets/b715b21f-77b0-478f-bf57-867c84b657ca" />
-<img width="1920" height="1020" alt="STUDENT DETAILS IN SPREAD SHEET" src="https://github.com/user-attachments/assets/ea5e7327-fbd1-4fd6-844f-d9f1ff682be8" />
-<img width="1602" height="965" alt="SHOWING ATTENDANCE TAKEN" src="https://github.com/user-attachments/assets/d5d0599a-9eec-4388-a681-241a5353a6e9" />
+
+REGISTRATION:
 <img width="1920" height="954" alt="REGESTRATION" src="https://github.com/user-attachments/assets/f270fdfc-56e4-4acf-9447-52933ed16cb1" />
+
+IMAGE_RECOGNIZED:
 <img width="1920" height="1080" alt="RECOGNIZED" src="https://github.com/user-attachments/assets/05e3acd0-ba78-4878-8476-b7ed5af3b1d4" />
+
+ATTENDANCE_TAKEN:
+<img width="1602" height="965" alt="SHOWING ATTENDANCE TAKEN" src="https://github.com/user-attachments/assets/d5d0599a-9eec-4388-a681-241a5353a6e9" />
+
+ATTENDANCE_REGISTERED_IN_SPREAD_SHEET:
+<img width="1920" height="1020" alt="ATTENDANCE REGISTERED IN SPREAD SHEET" src="https://github.com/user-attachments/assets/4406fbe8-b3e6-4c93-9f87-319d52073ab2" />
+
+TRAINED_IMAGES:
+<img width="1350" height="714" alt="TRAINED IMAGES" src="https://github.com/user-attachments/assets/b715b21f-77b0-478f-bf57-867c84b657ca" />
+
+STUDENT_DETAILS_STORED_IN_SPREAD_SHEET<img width="1920" height="1020" alt="STUDENT DETAILS IN SPREAD SHEET" src="https://github.com/user-attachments/assets/ea5e7327-fbd1-4fd6-844f-d9f1ff682be8" />
+
+HELP_OPTION_IN_MENUBAR:
+<img width="454" height="911" alt="HELP OPTION IN MENUBAR" src="https://github.com/user-attachments/assets/882323b3-2a74-4bdf-a2f3-db5294fbb4b1" />
+
+CHANGE_PASSWARD_OPTION:
+<img width="502" height="240" alt="CHANGE PASSWORD OPTION" src="https://github.com/user-attachments/assets/bb397a24-863c-412a-99c2-f9faefa0d4ea" />
